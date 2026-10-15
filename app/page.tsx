@@ -91,7 +91,7 @@ export default function Page() {
 
   return (
     <main className="ecotwin-shell">
-      <div className="ambient-grid" /><div className="particle-field" aria-hidden="true"><span className="particle particle-one" /><span className="particle particle-two" /></div>
+      <div className="ambient-grid" /><div className="particle-field" aria-hidden="true"><span className="particle particle-one" /><span className="particle particle-two" /><span className="particle particle-three" /><span className="particle particle-four" /></div>
       <aside className="sidebar">
         <div className="brand"><div className="brand-mark">DSU</div><div><strong>EcoTwin</strong><span>Campus intelligence</span></div></div>
         <div className="university-label">DAYANANDA SAGAR UNIVERSITY</div>
